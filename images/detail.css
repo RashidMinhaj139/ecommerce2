@@ -1,0 +1,259 @@
+.complete-upper-section-pro{
+    /* background-color: rgb(195, 247, 247); */
+    background: radial-gradient(#fff,#ffd6d6);
+    width: 100%;
+    height: 90px;
+}
+.navbar-pro{
+    
+    padding-top: 20px;
+    /* box-shadow: 1px 1px 19px rgb(219, 219, 219); */
+    display: flex;
+    gap: 450px;
+    width: 100%;
+    height: 80px;
+    
+    /* border: 2px solid red; */
+}
+.logo-pro img{
+    margin-left: 142px;
+    width: 170px;
+    height: 45px;
+    /* border: 2px solid red; */
+}
+.nav-pro{
+    /* border: 2px solid red; */
+    margin-left: 50px;
+    margin-top: 10px;
+    display: flex;
+    list-style: none;
+    /* text-decoration: none; */
+    gap: 33px;
+}
+.nav-pro li:hover{
+    color: #ff523b;
+}
+.nav-pro li a{
+    color: black;
+    text-decoration: none;
+}
+.nav-pro li a:hover{
+    color: #ff523b;
+}
+.nav-pro li img{
+    margin-top: -9px;
+    width: 30px;
+    /* border: 2px solid red; */
+    height: 30px;
+}
+.head-2-pro{
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    top: 30px;
+    left:-370px;
+}
+.line-pro{
+    position: relative;
+    top: 7px;
+    left: 15px;
+    border: 2px solid red;
+    height: 1px;
+    width: 100px;
+    margin-left: 190px;
+    margin-top: 9px;
+    background-color: #ff523b; 
+}
+/* product details */
+.pehla-img{
+    margin-top: 40px;
+    margin-left: 160px;
+    /* border: 2px solid red; */
+    height: 420px;
+    width: 390px;
+}
+.pehla-img img{
+    width: 100%;
+    height: 100%;
+}
+.four-images{
+    margin-top: 8px;
+    margin-left: 160px;
+  /* border: 2px solid red; */
+  height: 120px;  
+  width: 420px;  
+}
+.four-images img{
+    height: 90px;
+    width: 95px;
+}
+.detail-text{
+    position: relative;
+    left: 580px;
+    top: -545px;
+    /* border: 2px solid red; */
+    height: 400px;
+    width: 500px;
+}
+.pro-det{
+    margin-top: -30px;
+    font-weight: bold;
+    font-size: 28px;
+}
+.heading{
+    font-size: 17px;
+    /* font-weight: bold; */
+}
+.detail-text h1{
+    font-size: 40px;
+}
+.pri{
+    font-size: 20px;
+    font-weight: bold;
+}
+.det-select{
+    
+    width: 110px;
+    height: 35px;
+}
+.detail-text input{
+    width: 30px;
+    
+    text-align: center;
+    height: 30px;
+    margin-top: 20px;
+}
+.btn-det{
+    position: relative;
+    left: 55px;
+    top: -50px;
+    text-decoration: none;
+    list-style-type: none;
+    background-color: #ff523b;
+    
+   padding-top: 7px;
+   padding-left: 25px;
+    width: 130px;
+    height: 30px;
+    font-weight: bold;
+    border-radius: 20px;
+    
+}
+.btn-det a{
+   color: white;
+   text-decoration: none;
+}
+.det-para{
+    margin-top: -7px;
+    font-size: 17px;
+}
+.footer-det{
+    /* background: radial-gradient(#fff,#ffd6d6); */
+    /* background: radial-gradient(#fff,#faf2f2); */
+    background-color: black;
+display: flex;
+gap: 40px;
+color: white;
+    width: 100%;
+    margin-top: -270px;
+
+    height: 400px;
+    padding-left: 80px;
+    padding-top: 60px;
+    /* border: 2px solid red; */
+}
+.first-list{
+    margin-top: 30px;
+    height: 220px;
+    width: 310px;
+    /* border: 2px solid red; */
+
+}
+.first-list h2{
+    padding-top: 30px;
+    padding-left: 15px;
+
+}
+.first-list p{
+    padding-top: 20px;
+    padding-left: 15px;
+
+}
+.first-list img{
+    margin-top: 28px;
+    margin-left: 10px;
+    height: 40px;
+    width: 140px;
+    /* border: 2px solid red; */
+}
+.second-list{
+    margin-top: 30px;
+
+    height: 170px;
+    width: 310px;
+    /* border:2px solid red;    */
+}
+.second-list p{
+    padding-top: 20px;
+    padding-left: 15px;
+
+}
+.second-list img{
+    margin-top: 30px;
+    margin-left: 60px;
+    height: 70px;
+    width: 140px;
+    /* border: 2px solid red; */
+}
+.third-list{
+    margin-top: 30px;
+
+    height: 200px;
+    width: 200px;
+    /* border: 2px solid red;    */
+}
+.third-list li{
+    line-height: 25px;
+    list-style: none;
+    text-align: center;
+    
+}
+.footer-head{
+    text-align: center;
+ padding-top: 30px;
+ font-weight: bold;
+ font-size: 21px;  
+}
+.copy{
+    color: white;
+    position: absolute;
+    top: 1310px;
+    left: 530px;
+}
+.line-2{
+    position: relative;
+    top: -100px;
+    left: 70px;
+    height: 0.1px;
+    width: 85%;
+    background-color: white;
+}
+.line-b{
+    position: relative;
+    height: 3px;
+    width: 100px;
+   left: 590px;
+    top: 110px;
+    background-color: #ff523b; 
+}
+
+.head-b{
+    position: relative;
+    top: 100px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
